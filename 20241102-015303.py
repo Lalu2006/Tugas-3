@@ -1,0 +1,5 @@
+Print("Nama saya Lalu Sirajati")
+print("Nim saya 24241149")
+print("saya berasal dari Gerung")
+print("nomer keberuntungan saya(24+49")
+print("73")
